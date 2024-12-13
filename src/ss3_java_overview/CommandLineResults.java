@@ -1,4 +1,4 @@
-package exercise;
+package ss3_java_overview;
 
 public class CommandLineResults {
     public static void main(String[] args) {

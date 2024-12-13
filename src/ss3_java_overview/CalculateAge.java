@@ -1,4 +1,4 @@
-package exercise;
+package ss3_java_overview;
 
 import java.time.Year;
 import java.util.Scanner;

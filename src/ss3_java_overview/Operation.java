@@ -1,4 +1,4 @@
-package exercise;
+package ss3_java_overview;
 
 import java.util.Scanner;
 

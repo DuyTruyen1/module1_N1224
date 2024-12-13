@@ -1,4 +1,4 @@
-package exercise;
+package ss3_java_overview;
 
 public class VariableValue {
     public static void main(String[] args) {
