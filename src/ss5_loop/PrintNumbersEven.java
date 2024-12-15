@@ -2,7 +2,7 @@ package ss5_loop;
 
 import java.util.Scanner;
 
-public class PrintNumbersEven3 {
+public class PrintNumbersEven {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhập vào số n: ");

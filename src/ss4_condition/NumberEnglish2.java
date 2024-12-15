@@ -42,8 +42,8 @@ public class NumberEnglish2 {
                 englishNumber = "Ten";
                 break;
             default:
-                englishNumber = "Number not found";
+                englishNumber = "So khong hop le";
         }
-        System.out.println("Number " + n + " writing English :" + englishNumber);
+        System.out.println("So " + n + " viet bang tieng anh :" + englishNumber);
     }
 }

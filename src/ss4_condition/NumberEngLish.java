@@ -30,10 +30,10 @@ public class NumberEngLish {
         } else if (n == 10) {
             englishNumber = "Ten";
         } else {
-            englishNumber = "Number Not Found";
+            englishNumber = "So khong hop le";
         }
 
 
-        System.out.println("Number " + n + " writing English :" + englishNumber);
+        System.out.println("So " + n + " viet bang tieng anh :" + englishNumber);
     }
 }

@@ -2,20 +2,13 @@ package ss5_loop;
 
 import java.util.Scanner;
 
-public class PrintNumbersEven1 {
+public class PrintEvenNumbersYinAndYangThreeNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Nhập vào số n: ");
+        System.out.print("Nhap vao so n: ");
         int n = sc.nextInt();
-//        for(int i = 2; i <= n; i += 2){
-//            if(i % 4 == 0){
-//                System.out.print(-i + " ");
-//            }else{
-//                System.out.print(i + " ");
-//            }
-//        }
 
-//        B1
+//        Cach1
 //        for (int i = 2; i <= n; i += 2) {
 //            if (i % 6 == 0) {
 //                System.out.println(-1 + "");
@@ -24,8 +17,7 @@ public class PrintNumbersEven1 {
 //            }
 //        }
 
-
-//        B2
+        //Cach2
         int x = 3;
         int count = 0;
         for (int i = 2; i <= n; i += 2) {

@@ -5,6 +5,7 @@ public class ChangeValue {
         int a = 2;
         int b = 3;
 
+//        Cach 1
 //        use variable temp
 //        int temp = a;
 //        a = b;
@@ -12,10 +13,10 @@ public class ChangeValue {
 //
 
 
-//        use temp
-        a = a + b;
-        b = a - b;
-        a = a - b;
+////        Cach 2
+//        a = a + b;
+//        b = a - b;
+//        a = a - b;
 
         System.out.println("a: " + a);
         System.out.println("b: " + b);

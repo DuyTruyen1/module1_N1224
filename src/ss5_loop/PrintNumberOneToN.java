@@ -2,14 +2,13 @@ package ss5_loop;
 
 import java.util.Scanner;
 
-public class PrintNumberEven2 {
+public class PrintNumberOneToN {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Nhap vao so: ");
+        System.out.println("Nhap vao so nguyen n :");
         int n = sc.nextInt();
-        for (int i = 2; i <= 2 * n; i += 2) {
-            System.out.println(i + "");
+        for (int i = 1; i <= n; i++) {
+            System.out.println(i + "\t");
         }
-
     }
 }
