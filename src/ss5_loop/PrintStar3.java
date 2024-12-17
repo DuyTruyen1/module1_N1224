@@ -63,5 +63,18 @@ public class PrintStar3 {
             }
             System.out.println();
         }
+
+//        Hình G
+        System.out.println("Hinh G");
+        for(int i = 1; i <= canh; i++){
+            for(int j = 1; j < i; j++){
+                System.out.print(" ");
+            }
+
+            for(int j = 1; j <= (canh - 1) * 2 + 1; j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
     }
 }
