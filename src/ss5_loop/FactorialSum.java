@@ -22,6 +22,7 @@ public class FactorialSum {
     }
 
     public static int tinhGiaiThua(int n) {
+//        nen chi giai thua = 2 , vi vong dau tien = 1 thi vo nghia
         int giaiThua = 1;
         int i = 1;
         while (i <= n) {

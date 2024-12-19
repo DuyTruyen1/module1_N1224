@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Prime {
     public static void main(String[] args) {
+//        So nguyen to chi chia het cho 1 va chinh no
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap vao so nguyen duong: ");
         int n = sc.nextInt();
