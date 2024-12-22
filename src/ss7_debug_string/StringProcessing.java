@@ -1,4 +1,4 @@
-package ss6_method;
+package ss7_debug_string;
 
 import java.util.Scanner;
 
